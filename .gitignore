@@ -1,4 +1,4 @@
 __pycache__
 venv/
 .env
-FASTAPI.__pycache__
+fastapl/__pycache__
